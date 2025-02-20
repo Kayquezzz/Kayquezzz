@@ -21,7 +21,7 @@
 
 ## 🚀 My Tech Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,java,kotlin,python,react,nextjs,tailwind,git,github,firebase,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,java,python,react,nextjs,tailwind,git,github,firebase,mysql&theme=dark" />
 
 ## 🧑‍💻 About Me
 
