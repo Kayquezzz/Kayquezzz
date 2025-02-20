@@ -44,4 +44,5 @@
   </p>
 </div>
 
-<img src="https://raw.githubusercontent.com/lucascorreaa/lucascorreaa/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kayquezzz&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical&border_radius=10&hide=prs&line_height=30" />
+
