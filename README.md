@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Passionate Software Developer | Technology Enthusiast | Lifelong Learner
+  Software Developer | Tech Enthusiast | Aspiring Engineer
 </h3>
 
 <div align='center'>
@@ -17,21 +17,22 @@
 
 <div><br />
 
-## My Tech Stack
+## 🚀 My Tech Stack
 
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,java,kotlin,python,react,nextjs,tailwind,git,github,firebase,mongodb,mysql&theme=dark" />
 
-## About Me
+## 🧑‍💻 About Me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hi, I'm **Kayque** from São Paulo, Brazil. I'm a passionate software development student on a journey to becoming a **Software Engineer**. 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Brain.png" alt="Brain" width="25" height="25" /> Currently mastering **Java**, **Kotlin**, **React**, **React Native**, **Node.js**, **SQL**, and **MongoDB** to build scalable, innovative solutions. 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="25" height="25" /> I’m always curious to learn new technologies and improve my coding skills. I love creating apps and solving problems.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> Outside of coding, I enjoy playing the **electric guitar** and exploring new music. 🎸
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="25" height="25" /> I’m a team player, and I highly value collaboration and respect in any work environment.
+- 👋 Hi, I’m **Kayque**! I'm a software development student based in São Paulo, Brazil, on a mission to become a full-stack **Software Engineer**. 
+- 🚀 My goal is to continue building innovative, scalable software solutions using the latest technologies like **Java**, **Kotlin**, **React**, **Node.js**, **MongoDB**, and **SQL**.
+- 💻 Currently diving deep into **React Native** and mobile app development—exploring ways to bring powerful apps to both iOS and Android.
+- 🌱 I’m constantly learning, improving, and challenging myself to grow as a developer. I believe in the power of **problem-solving** and **collaboration**.
+- 🎸 Outside of coding, I love playing the **electric guitar**—a perfect way to recharge and get creative.
+- 💬 I'm always open to connecting with like-minded tech enthusiasts and professionals.
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-<h3>Get In Touch</h3>
+<h3>🔗 Get In Touch</h3>
 <div align="left">
   <p>
     <a href="mailto:Kayque7809828@gmail.com">
