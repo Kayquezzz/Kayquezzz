@@ -44,7 +44,8 @@
   </p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-curve-snake.svg" alt="Curved Snake Animation" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pulsing.svg" alt="Pulsing Animation" />
+
 
 
 
