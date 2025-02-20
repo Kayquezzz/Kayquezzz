@@ -17,3 +17,34 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayquezzz&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
 </div>
+
+</div>
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+<div><br />
+
+## &nbsp;My Stack
+
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,java,kotlin,python,react,nextjs,tailwind,git,github,firebase,mongodb,mysql&theme=dark" />
+
+## About me
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Nicolas and I'm a software development student from São Paulo <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My future goal is to become a Software Engineer.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> I'm currently learning technologies such as Java, Kotlin, React, React Native, Node.js, SQL and MongoDB <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" /> My favorite hobbby is playing the electric guitar
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+
+<h3>Contact Me</h3>
+<div align="left">
+<p>
+<a href="mailto:nico.gblopes@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/nicolaslopes29"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
+
+</div>
