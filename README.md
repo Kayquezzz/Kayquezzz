@@ -44,5 +44,6 @@
   </p>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kayquezzz&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical&border_radius=10&hide=prs&line_height=30" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Matrix Animation" />
+
 
